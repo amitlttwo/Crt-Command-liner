@@ -4,7 +4,7 @@ echo "
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 |      ..| search crt.sh v1.1 |..     |
 +   site : crt.sh Certificate Search  +
-|            Twitter: amitl2          |
+|            Twitter: amitlt2         |
 +-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+
 	"
 	
